@@ -1,0 +1,157 @@
+﻿aspect,SP,SN,ST,SoP,SoN,SoT,DP,DN,DT,Total
+monitor,22,3,25,1,2,3,2,9,11,39
+price,16,1,17,1,0,1,5,1,6,24
+color,10,0,10,1,1,2,1,1,2,14
+display,6,0,6,0,0,0,1,1,2,8
+product,7,0,7,0,0,0,0,1,1,8
+screen,6,0,6,0,0,0,0,2,2,8
+computer,5,0,5,0,0,0,2,0,2,7
+netbook,4,0,4,1,0,1,2,0,2,7
+quality,5,0,5,0,0,0,2,0,2,7
+viewing angle,2,1,3,0,1,1,2,1,3,7
+picture,3,0,3,2,0,2,1,0,1,6
+brightness,2,0,2,0,1,1,1,1,2,5
+Image,4,0,4,1,0,1,0,0,0,5
+keyboard,2,0,2,0,0,0,1,1,2,5
+size,3,1,4,1,0,1,0,0,0,5
+contrast,3,0,3,0,0,0,1,0,1,4
+machine,2,1,3,1,0,1,0,0,0,4
+set up,3,0,3,0,0,0,1,0,1,4
+small,1,0,1,0,0,0,3,0,3,4
+weight,3,0,3,0,0,0,0,1,1,4
+Acer,0,2,2,0,0,0,0,1,1,3
+battery life,3,0,3,0,0,0,0,0,0,3
+customer service,0,1,1,0,1,1,0,1,1,3
+design,2,0,2,0,0,0,0,0,0,3
+expensive,1,2,3,0,0,0,0,0,0,3
+fits,0,0,0,0,0,0,3,0,3,3
+laptop,3,0,3,0,0,0,0,0,0,3
+shipping,1,0,1,1,0,1,1,0,1,3
+Acer Monitor,2,0,2,0,0,0,0,0,0,2
+backlight,0,2,2,0,0,0,0,0,0,2
+battery,0,0,0,0,0,0,2,0,2,2
+bright,0,0,0,0,1,1,0,1,1,2
+cheap,0,0,0,0,0,0,2,0,2,2
+clarity,2,0,2,0,0,0,0,0,0,2
+dead pixels,0,0,0,0,0,0,2,0,2,2
+delivery,1,0,1,1,0,1,0,0,0,2
+device,1,0,1,1,0,1,0,0,0,2
+instructions,0,0,0,0,0,0,0,2,2,2
+LCD monitor,1,0,1,0,0,0,1,0,1,2
+light-weight,2,0,2,0,0,0,0,0,0,2
+performance,2,0,2,0,0,0,0,0,0,2
+picture quality,0,1,1,0,0,0,0,1,1,2
+repair technicians,0,1,1,0,0,0,0,1,1,2
+resolution,2,0,2,0,0,0,0,0,0,2
+run,0,1,1,0,0,0,0,1,1,2
+screen quality,2,0,2,0,0,0,0,0,0,2
+sound,2,0,2,0,0,0,0,0,0,2
+speakers,1,1,2,0,0,0,0,0,0,2
+stand,0,0,0,0,0,0,0,2,2,2
+support,1,0,1,0,0,0,0,1,1,2
+switch,0,1,1,0,0,0,0,1,1,2
+VGA Connection,0,0,0,0,1,1,0,1,1,2
+3d,1,0,1,0,0,0,0,0,0,1
+5-day forecaster,1,0,1,0,0,0,0,0,0,1
+Acer 19-inch flat screen monitor,1,0,1,0,0,0,0,0,0,1
+Acer Netbook Aspire One,1,0,1,0,0,0,0,0,0,1
+Acer product,0,0,0,0,0,0,0,1,1,1
+Acer products,0,0,0,0,0,0,1,0,1,1
+Acer stuff,1,0,1,0,0,0,0,0,0,1
+Acer tech support,0,0,0,0,0,0,1,0,1,1
+ACER widescreen,0,0,0,1,0,1,0,0,0,1
+AG Neovo 's standout 17 '' monitor,1,0,1,0,0,0,0,0,0,1
+audio volume,0,1,1,0,0,0,0,0,0,1
+beeps,0,0,0,0,0,0,0,1,1,1
+brighter,0,0,0,0,0,0,1,0,1,1
+cable hook ups,0,0,0,0,0,0,0,1,1,1
+chat support,0,0,0,0,0,0,0,1,1,1
+clicker,0,0,0,0,0,0,0,1,1,1
+color bleeding,0,0,0,0,0,0,1,0,1,1
+color display,0,0,0,1,0,1,0,0,0,1
+compact,0,0,0,1,0,1,0,0,0,1
+connect,0,1,1,0,0,0,0,0,0,1
+convenient,1,0,1,0,0,0,0,0,0,1
+crispness,1,0,1,0,0,0,0,0,0,1
+delivering,1,0,1,0,0,0,0,0,0,1
+direct Elictrical connectivity,0,1,1,0,0,0,0,0,0,1
+displays,1,0,1,0,0,0,0,0,0,1
+distort,0,0,0,0,0,0,1,0,1,1
+download,0,1,1,0,0,0,0,0,0,1
+DVI Connection,0,0,0,1,0,1,0,0,0,1
+fast,1,0,1,0,0,0,0,0,0,1
+faster,0,0,0,1,0,1,0,0,0,1
+features,1,0,1,0,0,0,0,0,0,1
+fit into the socket,0,1,1,0,0,0,0,0,0,1
+fonts,0,0,0,0,0,0,0,0,0,1
+functionality,1,0,1,0,0,0,0,0,0,1
+GPU hardware acceleration,1,0,1,0,0,0,0,0,0,1
+hard drive,1,0,1,0,0,0,0,0,0,1
+HDMI output,1,0,1,0,0,0,0,0,0,1
+heat dissipation,1,0,1,0,0,0,0,0,0,1
+heat up,1,0,1,0,0,0,0,0,0,1
+heated,1,0,1,0,0,0,0,0,0,1
+height adjustability,0,0,0,0,0,0,0,1,1,1
+hook up,0,0,0,1,0,1,0,0,0,1
+image quality,0,0,0,0,0,0,0,1,1,1
+incompatibility,0,0,0,0,0,0,0,1,1,1
+increased memory option,0,0,0,0,0,0,1,0,1,1
+inexpensive,1,0,1,0,0,0,0,0,0,1
+install,0,0,0,0,0,0,0,0,0,1
+insurance,0,0,0,0,0,0,1,0,1,1
+items,1,0,1,0,0,0,0,0,0,1
+keyboard connector,0,1,1,0,0,0,0,0,0,1
+laid out,1,0,1,0,0,0,0,0,0,1
+LED monitor,1,0,1,0,0,0,0,0,0,1
+light,0,0,0,1,0,1,0,0,0,1
+lighter,1,0,1,0,0,0,0,0,0,1
+lines,1,0,1,0,0,0,0,0,0,1
+local HD decoding,1,0,1,0,0,0,0,0,0,1
+looking,0,0,0,0,0,0,0,0,0,1
+memory,0,0,0,0,0,0,1,0,1,1
+mouse,1,0,1,0,0,0,0,0,0,1
+mouse pad,0,0,0,0,0,0,0,1,1,1
+Office Starter Web Cam,1,0,1,0,0,0,0,0,0,1
+panel,0,0,0,0,0,0,0,1,1,1
+pixel quality,0,0,0,0,0,0,0,0,0,1
+pixels,0,0,0,0,0,0,1,0,1,1
+portability,1,0,1,0,0,0,0,0,0,1
+pretty,0,0,0,0,0,0,0,0,0,1
+quality of picture,0,0,0,0,1,1,0,0,0,1
+quiet,1,0,1,0,0,0,0,0,0,1
+readability,1,0,1,0,0,0,0,0,0,1
+remote control,0,0,0,1,0,1,0,0,0,1
+repair team,0,0,0,0,0,0,0,1,1,1
+running,1,0,1,0,0,0,0,0,0,1
+Screen brightness,1,0,1,0,0,0,0,0,0,1
+screen functions,1,0,1,0,0,0,0,0,0,1
+screen resolution,1,0,1,0,0,0,0,0,0,1
+service,0,0,0,0,0,0,0,1,1,1
+sharpness,1,0,1,0,0,0,0,0,0,1
+shipping service,1,0,1,0,0,0,0,0,0,1
+side view,1,0,1,0,0,0,0,0,0,1
+sleek,1,0,1,0,0,0,0,0,0,1
+slow,0,0,0,0,0,0,0,1,1,1
+slower,0,1,1,0,0,0,0,0,0,1
+smooth,0,0,0,1,0,1,0,0,0,1
+speed,1,0,1,0,0,0,0,0,0,1
+Superdrive,1,0,1,0,0,0,0,0,0,1
+system,0,0,0,0,0,0,0,1,1,1
+technical support,0,1,1,0,0,0,0,0,0,1
+text,1,0,1,0,0,0,0,0,0,1
+text rendering,1,0,1,0,0,0,0,0,0,1
+ULTRA Slim monitor,0,0,0,1,0,1,0,0,0,1
+unbox,1,0,1,0,0,0,0,0,0,1
+value,1,0,1,0,0,0,0,0,0,1
+video,0,0,0,0,0,0,1,0,1,1
+video cable,1,0,1,0,0,0,0,0,0,1
+video card,0,0,0,0,0,0,0,1,1,1
+view angle,0,0,0,1,0,1,0,0,0,1
+weighs,0,0,0,0,0,0,1,0,1,1
+widescreen,1,0,1,0,0,0,0,0,0,1
+widescreen monitors,0,0,0,0,0,0,0,1,1,1
+WiFi\/Bluetooth modules,1,0,1,0,0,0,0,0,0,1
+windows 7 premium,1,0,1,0,0,0,0,0,0,1
+wireless keyboard,1,0,1,0,0,0,0,0,0,1
+worked,0,0,0,1,0,1,0,0,0,1
+works,1,0,1,0,0,0,0,0,0,1
